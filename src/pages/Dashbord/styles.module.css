@@ -1,0 +1,47 @@
+.header {
+  height: 70px;
+  width: 110vw;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: end;
+  padding-right: 5rem;
+  margin-right: 10rem;
+  position: fixed;
+}
+.container {
+  margin: 4rem 0 0 3rem;
+}
+.card {
+  width: 25vw;
+  padding: 2rem;
+  margin: 2rem;
+}
+
+:where(.css-dev-only-do-not-override-1n7nwfa).ant-table-wrapper {
+  clear: both;
+  max-width: 109%;
+  margin-bottom: 96px;
+}
+.name {
+  position: absolute;
+  /* margin-right: 1rem; */
+  left: 60rem;
+  margin-top: 17px;
+}
+.editBtn {
+  color: rgb(39, 161, 192);
+  border-color: #1183e1;
+  margin: 1px;
+  margin-right: 18px;
+  margin-bottom: 8px;
+  align-items: center;
+}
+.footerr {
+  text-align: center;
+  bottom: 0px;
+  position: fixed;
+  width: 100%;
+}

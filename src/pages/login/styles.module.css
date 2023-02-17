@@ -1,0 +1,11 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://png.pngtree.com/background/20210714/original/pngtree-abstract-neon-line-in-wall-background-with-light-blue-and-pink-picture-image_1235850.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+        }
+/* .form{
+    border: 2px solid black;
+    border-radius: 19px;
+    background-color: rgb(255, 255, 255);
+} */
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(238, 252, 255, 0.952);
+  /* background-image: url("https://e0.pxfuel.com/wallpapers/534/472/desktop-wallpaper-login-outlook-login-login-page-and-area-51-login-screen-thumbnail.jpg"); */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
